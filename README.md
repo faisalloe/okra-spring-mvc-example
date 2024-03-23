@@ -17,8 +17,9 @@ Add your application urls in okta application configuration.
 
 sign-in redirect uri.
 http://localhost:8080/okta-spring_mvc_example_war/login/oauth2/code/okta
+
 sign-out redirect uri
 http://localhost:8080/spring_mvc_example_war/
 
-#Reference is taken from following url but example code is broken which i fixed it.
+Reference is taken from following url but example code is broken
 https://developer.okta.com/blog/2018/09/12/secure-java-ee-rest-api
